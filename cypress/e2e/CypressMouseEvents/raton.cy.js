@@ -8,7 +8,7 @@ describe('visitar google', () => {
       /* ==== Generated with Cypress Studio ==== */
       /* ==== End Cypress Studio ==== */
       /* ==== Generated with Cypress Studio ==== */
-      cy.get('#top-menu > #menu-item-179 > .sub-menu > #menu-item-238 > a').click();
+    //  cy.get('#top-menu > #menu-item-179 > .sub-menu > #menu-item-238 > a').click();
       /* ==== End Cypress Studio ==== */
     })
   })
